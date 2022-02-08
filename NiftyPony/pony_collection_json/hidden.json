@@ -1,0 +1,23 @@
+{
+    "name" : "Abstract Forest",
+    "image": "<Insert Link>",
+    "description": "Welcome to the Ponyverse, a collection brought to you by Niftyzone. Your pony lurks in the depths of the abstract forest, wait for the reveal... ",
+    "external_link": "https://www.niftyzone.com/",
+    "artist": "NiftyZone",
+    "attributes":[
+        {
+            "trait_type": "Theme",
+            "value": "Hidden"
+        },
+        {
+            "trait_type": "Edition",
+            "value": 1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Generation",
+            "value": 1
+
+        }
+    ]
+}

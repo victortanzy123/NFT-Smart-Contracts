@@ -1,0 +1,19 @@
+{
+  "name": "nft-smart-contracts",
+  "version": "1.0.0",
+  "description": "Different variations of NFT Smart Contracts (ERC721, ERC721(A), ERC1155) for archival purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victortanzy123/NFT-Smart-Contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victortanzy123/NFT-Smart-Contracts/issues"
+  },
+  "homepage": "https://github.com/victortanzy123/NFT-Smart-Contracts#readme"
+}

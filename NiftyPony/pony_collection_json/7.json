@@ -1,0 +1,25 @@
+{
+    "name" : "Luna Pony",
+    "tokenId": 1,
+    "image": "https://www.niftyzone.com/assets/abstractpony/07_luna.jpg",
+    "description": "Welcome to the Ponyverse, brought to you by Niftyzone",
+    "external_link": "https://www.niftyzone.com/",
+    "artist": "NiftyZone",
+    "quantity": 100,
+    "attributes":[
+        {
+            "trait_type": "Theme",
+            "value": "Luna"
+        },
+        {
+            "trait_type": "Edition",
+            "value": 1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Generation",
+            "value": 1
+
+        }
+    ]
+}

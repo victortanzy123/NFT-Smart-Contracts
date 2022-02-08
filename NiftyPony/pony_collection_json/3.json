@@ -1,0 +1,25 @@
+{
+    "name" : "Rainbow Pony",
+    "tokenId": 3,
+    "image": "https://www.niftyzone.com/assets/abstractpony/04_rainbow.jpg",
+    "description": "Welcome to the Ponyverse, brought to you by Niftyzone",
+    "external_link": "https://www.niftyzone.com/",
+    "artist": "NiftyZone",
+    "quantity": 100,
+    "attributes":[
+        {
+            "trait_type": "Theme",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Edition",
+            "value": 1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Generation",
+            "value": 1
+
+        }
+    ]
+}
